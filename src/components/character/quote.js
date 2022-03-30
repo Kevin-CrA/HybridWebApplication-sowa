@@ -13,6 +13,7 @@ const Quote = (props) =>{
                         className="Quote__image"
                         src={character.image}
                         alt={character.character}
+                        alt={character.gender}
                         />
             <div className="Quote__data">
             <h2 className="Quote__name">{props.character.character}</h2>
