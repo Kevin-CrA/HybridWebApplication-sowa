@@ -15,7 +15,7 @@
     font-size: 120%;
     font-weight: bold;
     font-style: italic;
-    line-height: 100%;
+    line-height: 2;
     text-shadow: 2px 2px 5px rgb(223, 221, 221), 0px 0px 7px; 
    
 }
@@ -26,6 +26,8 @@
 }
 .Character__data{
     margin-left: 15px;
+    margin-top: 25px;
+    margin-left: 25px;
 }
 .Character__data h3,p,small{
     margin: 0;
